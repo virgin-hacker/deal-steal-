@@ -1,0 +1,10 @@
+[
+  { "name": "r/freebies", "url": "https://www.reddit.com/r/freebies/new/.rss" },
+  { "name": "r/giveaways", "url": "https://www.reddit.com/r/giveaways/new/.rss" },
+  { "name": "r/promocodes", "url": "https://www.reddit.com/r/promocodes/new/.rss" },
+  { "name": "r/couponing", "url": "https://www.reddit.com/r/couponing/new/.rss" },
+  { "name": "r/GameDeals", "url": "https://www.reddit.com/r/GameDeals/new/.rss" },
+  { "name": "r/Genshin_Impact (codes chatter)", "url": "https://www.reddit.com/r/Genshin_Impact/new/.rss" },
+  { "name": "Slickdeals: \"promo code\" search", "url": "https://slickdeals.net/newsearch.php?rss=1&q=promo+code" },
+  { "name": "Slickdeals: \"redeem code\" search", "url": "https://slickdeals.net/newsearch.php?rss=1&q=redeem+code" }
+]
